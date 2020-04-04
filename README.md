@@ -1,5 +1,5 @@
 <p align=center>
-  <br>
+  <br> 
   <span>NanoPi R1S-H5 OpenWrt Autobuild</span>
   <br>
   <span>Customize your own OpenWrt firmware for FriendlyArm NanoPi R1S-H5 using Github Actions.</span>
